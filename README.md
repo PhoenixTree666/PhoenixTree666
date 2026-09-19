@@ -2,7 +2,7 @@
 
 Glad to have you here! 😊
 
-- 🎓 I'm currently an undergraduate student at [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), majoring in Aerospace Manufacturing Engineering at the [School of Mechanical Engineering](https://jidian.nwpu.edu.cn/).
+- 🎓 I'm currently an undergraduate student at [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), majoring in Aircraft Manufacturing Engineering at the [School of Mechanical Engineering](https://jidian.nwpu.edu.cn/).
 - 🤖 I'm interested in Embodied Intelligence, Robotics, and Space-Air-Ground Collaborative Systems.
 - 🌱 I'm currently exploring VLA and brain–cerebellum collaboration in embodied systems.
 - ✨ In my free time, I enjoy playing badminton and watching movies. Feel free to reach out if you'd like to play badminton together or chat about movies! 😊
